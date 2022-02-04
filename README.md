@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PicusMaximus
 - 👀 I’m interested in CompSci and Science and Fiction
-- 🌱 I’m currently learning Java, Python and other fun stuff
+- 🌱 I’m currently learning Java, Python and C#
 
 <!---
 PicusMaximus/PicusMaximus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
